@@ -180,11 +180,11 @@ cv_splitter = StratifiedKFold(n_splits=3, shuffle=True, random_state=42)
 scoring = {"accuracy": "accuracy", "f1_macro": "f1_macro"}
 
 param_grid = {
-    "n_estimators": [5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 100, 200],
-    "max_depth": [2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40],
-    "min_samples_split": [3, 4, 5, 6, 7, 8, 9, 10, 20],
+    "n_estimators": [30],
+    "max_depth": [30],
+    "min_samples_split": [4],
     "bootstrap": [True],
-    "a": [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 2, 4],
+    "a": [0.8],
 }
 
 
