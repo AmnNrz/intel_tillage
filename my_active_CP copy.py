@@ -508,6 +508,6 @@ def get_next_points(steps=1000, gamma=5, alpha=4, round=1, k=10, save_csv=False)
 sub_sample_count = 100
 #first_df = active_cp_first_round(round=0, save_csv=False)
 
-current_round = 5
+current_round = 20
 current_df = get_next_points(round =current_round-1, save_csv=True)
 round_df = active_cp(round=current_round, save_csv=True)

@@ -1,0 +1,655 @@
+2025-11-20 11:02:17,719 | INFO | Full
+2025-11-20 11:02:17,786 | INFO | Accuracy of the model on the test images: 0.8391
+2025-11-20 11:02:17,786 | INFO | Full
+2025-11-20 11:02:17,853 | INFO | Accuracy of the model on the test images: 0.8276
+2025-11-20 11:02:17,854 | INFO | Full
+2025-11-20 11:02:17,919 | INFO | Accuracy of the model on the test images: 0.8448
+2025-11-20 11:02:17,920 | INFO | Full
+2025-11-20 11:02:17,985 | INFO | Accuracy of the model on the test images: 0.8333
+2025-11-20 11:02:17,986 | INFO | Full
+2025-11-20 11:02:18,052 | INFO | Accuracy of the model on the test images: 0.8218
+2025-11-20 11:02:18,053 | INFO | Full
+2025-11-20 11:02:18,117 | INFO | Accuracy of the model on the test images: 0.8391
+2025-11-20 11:02:18,118 | INFO | Full
+2025-11-20 11:02:18,184 | INFO | Accuracy of the model on the test images: 0.8218
+2025-11-20 11:02:18,185 | INFO | Full
+2025-11-20 11:02:18,250 | INFO | Accuracy of the model on the test images: 0.8448
+2025-11-20 11:02:18,251 | INFO | Full
+2025-11-20 11:02:18,316 | INFO | Accuracy of the model on the test images: 0.8103
+2025-11-20 11:02:18,317 | INFO | Full
+2025-11-20 11:02:18,382 | INFO | Accuracy of the model on the test images: 0.8218
+2025-11-20 11:02:18,388 | INFO | Saved full summary to my_DPP_tillage/runs_csv/run_2025-11-20_11-02-17/full_accuracy.csv
+2025-11-20 11:02:18,389 | INFO | [93mUniform sampling[0m
+2025-11-20 11:02:18,433 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.3908
+2025-11-20 11:02:18,477 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6552
+2025-11-20 11:02:18,520 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.7471
+2025-11-20 11:02:18,564 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.7241
+2025-11-20 11:02:18,610 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.6724
+2025-11-20 11:02:18,655 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:02:18,701 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7356
+2025-11-20 11:02:18,749 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:02:18,797 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7241
+2025-11-20 11:02:18,844 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:18,893 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:02:18,941 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:02:18,991 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.7471
+2025-11-20 11:02:19,041 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:02:19,091 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:19,142 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:19,193 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:19,246 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:02:19,300 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:02:19,354 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:19,355 | INFO | [93mPassive DPP[0m
+2025-11-20 11:02:19,777 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.592
+2025-11-20 11:02:20,206 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.6322
+2025-11-20 11:02:20,646 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6782
+2025-11-20 11:02:21,095 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:02:21,555 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:02:22,026 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7414
+2025-11-20 11:02:22,516 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:02:23,020 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:23,544 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:02:24,087 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:02:24,649 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:25,235 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:02:25,850 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:02:26,492 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:02:27,164 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:02:27,869 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:02:28,610 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:02:29,380 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:02:30,192 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:02:31,035 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:02:31,035 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:02:31,913 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.4598
+2025-11-20 11:02:32,803 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.6724
+2025-11-20 11:02:33,705 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.7529
+2025-11-20 11:02:34,623 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.8161
+2025-11-20 11:02:35,551 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.7759
+2025-11-20 11:02:36,493 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8161
+2025-11-20 11:02:37,452 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8218
+2025-11-20 11:02:38,434 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8391
+2025-11-20 11:02:39,430 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8506
+2025-11-20 11:02:40,452 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8103
+2025-11-20 11:02:41,493 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8448
+2025-11-20 11:02:42,557 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8218
+2025-11-20 11:02:43,655 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8448
+2025-11-20 11:02:44,782 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8218
+2025-11-20 11:02:45,935 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8448
+2025-11-20 11:02:47,127 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8563
+2025-11-20 11:02:48,343 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8563
+2025-11-20 11:02:49,582 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8563
+2025-11-20 11:02:50,867 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8276
+2025-11-20 11:02:52,186 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8448
+2025-11-20 11:02:52,187 | INFO | [93mUniform sampling[0m
+2025-11-20 11:02:52,230 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.4885
+2025-11-20 11:02:52,275 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:52,318 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:02:52,363 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:52,408 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:52,453 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:02:52,498 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7586
+2025-11-20 11:02:52,544 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:02:52,590 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:52,638 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:52,685 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:02:52,734 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:02:52,784 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:02:52,834 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:02:52,884 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:02:52,935 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:02:52,987 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:02:53,039 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:02:53,091 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8678
+2025-11-20 11:02:53,144 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:02:53,145 | INFO | [93mPassive DPP[0m
+2025-11-20 11:02:53,569 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.3678
+2025-11-20 11:02:54,002 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.546
+2025-11-20 11:02:54,445 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.5977
+2025-11-20 11:02:54,898 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.6379
+2025-11-20 11:02:55,361 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.6897
+2025-11-20 11:02:55,838 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7299
+2025-11-20 11:02:56,332 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.6782
+2025-11-20 11:02:56,838 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.6839
+2025-11-20 11:02:57,364 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:02:57,910 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:02:58,474 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:02:59,061 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:02:59,678 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:03:00,320 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:03:00,996 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:01,703 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:02,436 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:03:03,205 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:03:04,019 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:03:04,865 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:04,866 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:03:05,743 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.3391
+2025-11-20 11:03:06,634 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.6437
+2025-11-20 11:03:07,537 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.6782
+2025-11-20 11:03:08,455 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.7816
+2025-11-20 11:03:09,386 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8276
+2025-11-20 11:03:10,331 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.7931
+2025-11-20 11:03:11,296 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8161
+2025-11-20 11:03:12,273 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8333
+2025-11-20 11:03:13,272 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8678
+2025-11-20 11:03:14,289 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8678
+2025-11-20 11:03:15,330 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8621
+2025-11-20 11:03:16,395 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8621
+2025-11-20 11:03:17,490 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8506
+2025-11-20 11:03:18,611 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8391
+2025-11-20 11:03:19,759 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8621
+2025-11-20 11:03:20,945 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8678
+2025-11-20 11:03:22,161 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8621
+2025-11-20 11:03:23,400 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8391
+2025-11-20 11:03:24,686 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8621
+2025-11-20 11:03:26,000 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8621
+2025-11-20 11:03:26,001 | INFO | [93mUniform sampling[0m
+2025-11-20 11:03:26,043 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.5805
+2025-11-20 11:03:26,087 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6667
+2025-11-20 11:03:26,130 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:03:26,174 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.6782
+2025-11-20 11:03:26,219 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7069
+2025-11-20 11:03:26,264 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7471
+2025-11-20 11:03:26,309 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:03:26,356 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:26,402 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:03:26,449 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:03:26,496 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:03:26,544 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:26,593 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:03:26,643 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:03:26,693 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:03:26,743 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:03:26,794 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:03:26,846 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:03:26,898 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:03:26,950 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:03:26,951 | INFO | [93mPassive DPP[0m
+2025-11-20 11:03:27,376 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.4253
+2025-11-20 11:03:27,809 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.4368
+2025-11-20 11:03:28,250 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6724
+2025-11-20 11:03:28,700 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.7414
+2025-11-20 11:03:29,163 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:03:29,641 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:03:30,130 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.7069
+2025-11-20 11:03:30,632 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7184
+2025-11-20 11:03:31,159 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:03:31,705 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:03:32,269 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:03:32,858 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:03:33,474 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:03:34,117 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:03:34,791 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:03:35,502 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:03:36,245 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:03:37,012 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:03:37,822 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:03:38,671 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8678
+2025-11-20 11:03:38,671 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:03:39,548 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.5805
+2025-11-20 11:03:40,437 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.4368
+2025-11-20 11:03:41,340 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.6149
+2025-11-20 11:03:42,256 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.7184
+2025-11-20 11:03:43,186 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8161
+2025-11-20 11:03:44,129 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.7989
+2025-11-20 11:03:45,087 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8103
+2025-11-20 11:03:46,067 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8161
+2025-11-20 11:03:47,066 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8276
+2025-11-20 11:03:48,079 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8333
+2025-11-20 11:03:49,119 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8276
+2025-11-20 11:03:50,181 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8333
+2025-11-20 11:03:51,275 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8563
+2025-11-20 11:03:52,392 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8448
+2025-11-20 11:03:53,543 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8563
+2025-11-20 11:03:54,722 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8448
+2025-11-20 11:03:55,938 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8506
+2025-11-20 11:03:57,177 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8448
+2025-11-20 11:03:58,455 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8621
+2025-11-20 11:03:59,764 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8563
+2025-11-20 11:03:59,765 | INFO | [93mUniform sampling[0m
+2025-11-20 11:03:59,808 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.3851
+2025-11-20 11:03:59,851 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6437
+2025-11-20 11:03:59,896 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.5632
+2025-11-20 11:03:59,940 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.6839
+2025-11-20 11:03:59,985 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7299
+2025-11-20 11:04:00,030 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7241
+2025-11-20 11:04:00,075 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:04:00,122 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:04:00,168 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:04:00,216 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:04:00,263 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:04:00,311 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:04:00,359 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:04:00,409 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:04:00,459 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:04:00,509 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:00,560 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:04:00,612 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:00,664 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:04:00,716 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:04:00,717 | INFO | [93mPassive DPP[0m
+2025-11-20 11:04:01,146 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.454
+2025-11-20 11:04:01,578 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.4828
+2025-11-20 11:04:02,018 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6322
+2025-11-20 11:04:02,469 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.6322
+2025-11-20 11:04:02,934 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7414
+2025-11-20 11:04:03,413 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:04:03,907 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:04,413 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:04:04,941 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:04:05,486 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:04:06,052 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:06,640 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:04:07,258 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:07,902 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:08,576 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:09,287 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:04:10,025 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:04:10,795 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:04:11,608 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:04:12,456 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:04:12,457 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:04:13,334 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.5287
+2025-11-20 11:04:14,226 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.5805
+2025-11-20 11:04:15,129 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.6552
+2025-11-20 11:04:16,047 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.6954
+2025-11-20 11:04:16,977 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.7874
+2025-11-20 11:04:17,924 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8448
+2025-11-20 11:04:18,890 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.7989
+2025-11-20 11:04:19,871 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8391
+2025-11-20 11:04:20,871 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8448
+2025-11-20 11:04:21,887 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8448
+2025-11-20 11:04:22,927 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8621
+2025-11-20 11:04:23,988 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8506
+2025-11-20 11:04:25,084 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8448
+2025-11-20 11:04:26,206 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8563
+2025-11-20 11:04:27,352 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8736
+2025-11-20 11:04:28,534 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8563
+2025-11-20 11:04:29,743 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8621
+2025-11-20 11:04:30,981 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8563
+2025-11-20 11:04:32,264 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8678
+2025-11-20 11:04:33,582 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8621
+2025-11-20 11:04:33,583 | INFO | [93mUniform sampling[0m
+2025-11-20 11:04:33,626 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:04:33,670 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6437
+2025-11-20 11:04:33,714 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:04:33,758 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.7299
+2025-11-20 11:04:33,803 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7414
+2025-11-20 11:04:33,848 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:04:33,894 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:04:33,940 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:04:33,987 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:04:34,034 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:04:34,082 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:04:34,130 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:04:34,179 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:04:34,229 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:04:34,279 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:34,330 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:04:34,381 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:04:34,432 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:34,485 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:04:34,538 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:34,538 | INFO | [93mPassive DPP[0m
+2025-11-20 11:04:34,967 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.5747
+2025-11-20 11:04:35,400 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.5747
+2025-11-20 11:04:35,843 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6552
+2025-11-20 11:04:36,296 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.6782
+2025-11-20 11:04:36,758 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7414
+2025-11-20 11:04:37,232 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7356
+2025-11-20 11:04:37,722 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:04:38,227 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:04:38,754 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:04:39,297 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:04:39,863 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:04:40,455 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:04:41,074 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:04:41,716 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:04:42,393 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:43,105 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:04:43,847 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8621
+2025-11-20 11:04:44,622 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8621
+2025-11-20 11:04:45,435 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:04:46,282 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:04:46,283 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:04:47,165 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.4713
+2025-11-20 11:04:48,059 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.6437
+2025-11-20 11:04:48,964 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.8161
+2025-11-20 11:04:49,886 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.8218
+2025-11-20 11:04:50,820 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8276
+2025-11-20 11:04:51,765 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8678
+2025-11-20 11:04:52,732 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8678
+2025-11-20 11:04:53,713 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8218
+2025-11-20 11:04:54,716 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8563
+2025-11-20 11:04:55,737 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8678
+2025-11-20 11:04:56,782 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8506
+2025-11-20 11:04:57,851 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8218
+2025-11-20 11:04:58,953 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8333
+2025-11-20 11:05:00,074 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8333
+2025-11-20 11:05:01,232 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8391
+2025-11-20 11:05:02,427 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8391
+2025-11-20 11:05:03,642 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8333
+2025-11-20 11:05:04,890 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8276
+2025-11-20 11:05:06,175 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8621
+2025-11-20 11:05:07,492 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8678
+2025-11-20 11:05:07,493 | INFO | [93mUniform sampling[0m
+2025-11-20 11:05:07,536 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.5862
+2025-11-20 11:05:07,580 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.5575
+2025-11-20 11:05:07,623 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.5977
+2025-11-20 11:05:07,668 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.6322
+2025-11-20 11:05:07,712 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7184
+2025-11-20 11:05:07,758 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:07,804 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:05:07,850 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:05:07,896 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:07,943 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:07,992 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:08,039 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8621
+2025-11-20 11:05:08,088 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8736
+2025-11-20 11:05:08,137 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:08,186 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:08,236 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:08,287 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:08,338 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:08,390 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:08,443 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:08,444 | INFO | [93mPassive DPP[0m
+2025-11-20 11:05:08,869 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.4828
+2025-11-20 11:05:09,302 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.6264
+2025-11-20 11:05:09,745 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6609
+2025-11-20 11:05:10,198 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:05:10,663 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:11,142 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:11,636 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:12,145 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:05:12,676 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:05:13,220 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:05:13,787 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:14,377 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:14,994 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:15,641 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:05:16,316 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:17,024 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:17,768 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:18,537 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:19,351 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:20,197 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:20,197 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:05:21,075 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.3966
+2025-11-20 11:05:21,968 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.7586
+2025-11-20 11:05:22,871 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.8046
+2025-11-20 11:05:23,789 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.7529
+2025-11-20 11:05:24,719 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8046
+2025-11-20 11:05:25,660 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8276
+2025-11-20 11:05:26,623 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8276
+2025-11-20 11:05:27,599 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8218
+2025-11-20 11:05:28,596 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.7989
+2025-11-20 11:05:29,614 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8448
+2025-11-20 11:05:30,654 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8218
+2025-11-20 11:05:31,716 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8103
+2025-11-20 11:05:32,809 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8563
+2025-11-20 11:05:33,933 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8448
+2025-11-20 11:05:35,085 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8506
+2025-11-20 11:05:36,269 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8448
+2025-11-20 11:05:37,484 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8391
+2025-11-20 11:05:38,730 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8448
+2025-11-20 11:05:40,012 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8506
+2025-11-20 11:05:41,325 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8563
+2025-11-20 11:05:41,326 | INFO | [93mUniform sampling[0m
+2025-11-20 11:05:41,369 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.4425
+2025-11-20 11:05:41,413 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6782
+2025-11-20 11:05:41,458 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:41,502 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:41,547 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:41,592 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:41,638 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:41,684 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:41,731 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:41,777 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.8621
+2025-11-20 11:05:41,825 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8736
+2025-11-20 11:05:41,873 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:41,923 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:41,973 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:42,023 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:05:42,074 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:42,125 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:42,176 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:42,228 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:42,281 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:05:42,282 | INFO | [93mPassive DPP[0m
+2025-11-20 11:05:42,705 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.5057
+2025-11-20 11:05:43,140 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.7069
+2025-11-20 11:05:43,581 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:05:44,033 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:44,497 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:05:44,975 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:05:45,465 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:45,974 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:46,501 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:47,047 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:47,615 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:48,206 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:48,827 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:05:49,471 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:50,143 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:05:50,850 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:05:51,589 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:05:52,361 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:05:53,167 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:05:54,013 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:05:54,013 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:05:54,895 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.5747
+2025-11-20 11:05:55,789 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.7644
+2025-11-20 11:05:56,692 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.7241
+2025-11-20 11:05:57,610 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.8218
+2025-11-20 11:05:58,540 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8448
+2025-11-20 11:05:59,489 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8448
+2025-11-20 11:06:00,454 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8391
+2025-11-20 11:06:01,430 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8621
+2025-11-20 11:06:02,431 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8563
+2025-11-20 11:06:03,450 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8621
+2025-11-20 11:06:04,490 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8678
+2025-11-20 11:06:05,552 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8391
+2025-11-20 11:06:06,647 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8506
+2025-11-20 11:06:07,765 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8506
+2025-11-20 11:06:08,912 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8506
+2025-11-20 11:06:10,098 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8621
+2025-11-20 11:06:11,308 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8448
+2025-11-20 11:06:12,550 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8448
+2025-11-20 11:06:13,824 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8563
+2025-11-20 11:06:15,140 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8506
+2025-11-20 11:06:15,141 | INFO | [93mUniform sampling[0m
+2025-11-20 11:06:15,184 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.5
+2025-11-20 11:06:15,228 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.569
+2025-11-20 11:06:15,271 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.6609
+2025-11-20 11:06:15,316 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:06:15,360 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:06:15,406 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:15,452 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:15,498 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:06:15,545 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:06:15,592 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:06:15,640 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:15,688 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:15,737 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:15,787 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:15,837 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:06:15,888 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:15,938 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:06:15,990 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:06:16,041 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:16,094 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:06:16,095 | INFO | [93mPassive DPP[0m
+2025-11-20 11:06:16,522 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.5287
+2025-11-20 11:06:16,955 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.5
+2025-11-20 11:06:17,398 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.6092
+2025-11-20 11:06:17,849 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.6437
+2025-11-20 11:06:18,311 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7241
+2025-11-20 11:06:18,789 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:06:19,280 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:06:19,784 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7701
+2025-11-20 11:06:20,308 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:20,852 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:21,419 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:06:22,010 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:22,628 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:06:23,268 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:06:23,944 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:06:24,653 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:25,389 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:26,155 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:06:26,964 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:06:27,806 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:06:27,807 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:06:28,688 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.6264
+2025-11-20 11:06:29,579 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.7184
+2025-11-20 11:06:30,482 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.7069
+2025-11-20 11:06:31,401 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.7874
+2025-11-20 11:06:32,332 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8276
+2025-11-20 11:06:33,276 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8161
+2025-11-20 11:06:34,244 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8333
+2025-11-20 11:06:35,223 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8506
+2025-11-20 11:06:36,227 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.7931
+2025-11-20 11:06:37,249 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.7874
+2025-11-20 11:06:38,293 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8161
+2025-11-20 11:06:39,361 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8161
+2025-11-20 11:06:40,458 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8276
+2025-11-20 11:06:41,584 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8161
+2025-11-20 11:06:42,735 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8103
+2025-11-20 11:06:43,919 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8218
+2025-11-20 11:06:45,127 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8448
+2025-11-20 11:06:46,364 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8276
+2025-11-20 11:06:47,641 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8506
+2025-11-20 11:06:48,958 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8448
+2025-11-20 11:06:48,959 | INFO | [93mUniform sampling[0m
+2025-11-20 11:06:49,002 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.3276
+2025-11-20 11:06:49,046 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.5977
+2025-11-20 11:06:49,091 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:06:49,136 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.6379
+2025-11-20 11:06:49,182 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.6264
+2025-11-20 11:06:49,228 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.7184
+2025-11-20 11:06:49,274 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.7586
+2025-11-20 11:06:49,321 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.7529
+2025-11-20 11:06:49,368 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:06:49,415 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:49,463 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:06:49,511 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:06:49,561 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:06:49,610 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:06:49,661 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:06:49,713 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:06:49,764 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:06:49,816 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8563
+2025-11-20 11:06:49,869 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:06:49,921 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8506
+2025-11-20 11:06:49,922 | INFO | [93mPassive DPP[0m
+2025-11-20 11:06:50,351 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.4023
+2025-11-20 11:06:50,784 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.5805
+2025-11-20 11:06:51,226 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.546
+2025-11-20 11:06:51,677 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:06:52,139 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:06:52,617 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:06:53,109 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:06:53,611 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:06:54,135 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8621
+2025-11-20 11:06:54,676 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:55,241 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:06:55,829 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:56,448 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:57,091 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:06:57,768 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:58,477 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:06:59,213 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:06:59,980 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.8103
+2025-11-20 11:07:00,791 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:01,640 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:01,640 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:07:02,520 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.4138
+2025-11-20 11:07:03,411 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.5517
+2025-11-20 11:07:04,315 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.7126
+2025-11-20 11:07:05,230 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.7414
+2025-11-20 11:07:06,159 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.7989
+2025-11-20 11:07:07,105 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.7816
+2025-11-20 11:07:08,071 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8448
+2025-11-20 11:07:09,056 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8563
+2025-11-20 11:07:10,061 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8448
+2025-11-20 11:07:11,080 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8563
+2025-11-20 11:07:12,122 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8391
+2025-11-20 11:07:13,190 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8506
+2025-11-20 11:07:14,283 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8333
+2025-11-20 11:07:15,407 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8563
+2025-11-20 11:07:16,563 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8448
+2025-11-20 11:07:17,749 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8333
+2025-11-20 11:07:18,968 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8563
+2025-11-20 11:07:20,214 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8506
+2025-11-20 11:07:21,503 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8333
+2025-11-20 11:07:22,823 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8563
+2025-11-20 11:07:22,824 | INFO | [93mUniform sampling[0m
+2025-11-20 11:07:22,867 | INFO | [92mUniform[0m with 10 samples : Accuracy of the model on the test images: 0.5747
+2025-11-20 11:07:22,910 | INFO | [92mUniform[0m with 20 samples : Accuracy of the model on the test images: 0.6897
+2025-11-20 11:07:22,954 | INFO | [92mUniform[0m with 30 samples : Accuracy of the model on the test images: 0.7069
+2025-11-20 11:07:22,999 | INFO | [92mUniform[0m with 40 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:07:23,044 | INFO | [92mUniform[0m with 50 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:23,089 | INFO | [92mUniform[0m with 60 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:07:23,135 | INFO | [92mUniform[0m with 70 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:07:23,182 | INFO | [92mUniform[0m with 80 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:07:23,229 | INFO | [92mUniform[0m with 90 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:23,276 | INFO | [92mUniform[0m with 100 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:23,323 | INFO | [92mUniform[0m with 110 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:07:23,371 | INFO | [92mUniform[0m with 120 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:07:23,420 | INFO | [92mUniform[0m with 130 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:23,469 | INFO | [92mUniform[0m with 140 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:23,519 | INFO | [92mUniform[0m with 150 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:23,569 | INFO | [92mUniform[0m with 160 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:23,620 | INFO | [92mUniform[0m with 170 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:23,672 | INFO | [92mUniform[0m with 180 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:23,724 | INFO | [92mUniform[0m with 190 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:23,777 | INFO | [92mUniform[0m with 200 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:23,778 | INFO | [93mPassive DPP[0m
+2025-11-20 11:07:24,203 | INFO | [92mPassive DPP[0m with 10 samples : Accuracy of the model on the test images: 0.6954
+2025-11-20 11:07:24,637 | INFO | [92mPassive DPP[0m with 20 samples : Accuracy of the model on the test images: 0.7759
+2025-11-20 11:07:25,077 | INFO | [92mPassive DPP[0m with 30 samples : Accuracy of the model on the test images: 0.7644
+2025-11-20 11:07:25,529 | INFO | [92mPassive DPP[0m with 40 samples : Accuracy of the model on the test images: 0.8046
+2025-11-20 11:07:25,991 | INFO | [92mPassive DPP[0m with 50 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:07:26,469 | INFO | [92mPassive DPP[0m with 60 samples : Accuracy of the model on the test images: 0.8391
+2025-11-20 11:07:26,960 | INFO | [92mPassive DPP[0m with 70 samples : Accuracy of the model on the test images: 0.8276
+2025-11-20 11:07:27,467 | INFO | [92mPassive DPP[0m with 80 samples : Accuracy of the model on the test images: 0.8448
+2025-11-20 11:07:27,992 | INFO | [92mPassive DPP[0m with 90 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:07:28,538 | INFO | [92mPassive DPP[0m with 100 samples : Accuracy of the model on the test images: 0.8218
+2025-11-20 11:07:29,105 | INFO | [92mPassive DPP[0m with 110 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:29,691 | INFO | [92mPassive DPP[0m with 120 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:30,310 | INFO | [92mPassive DPP[0m with 130 samples : Accuracy of the model on the test images: 0.7989
+2025-11-20 11:07:30,951 | INFO | [92mPassive DPP[0m with 140 samples : Accuracy of the model on the test images: 0.7874
+2025-11-20 11:07:31,622 | INFO | [92mPassive DPP[0m with 150 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:07:32,330 | INFO | [92mPassive DPP[0m with 160 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:07:33,064 | INFO | [92mPassive DPP[0m with 170 samples : Accuracy of the model on the test images: 0.8161
+2025-11-20 11:07:33,825 | INFO | [92mPassive DPP[0m with 180 samples : Accuracy of the model on the test images: 0.7816
+2025-11-20 11:07:34,637 | INFO | [92mPassive DPP[0m with 190 samples : Accuracy of the model on the test images: 0.7931
+2025-11-20 11:07:35,482 | INFO | [92mPassive DPP[0m with 200 samples : Accuracy of the model on the test images: 0.8333
+2025-11-20 11:07:35,482 | INFO | [93mQuery by Committee with DPP[0m
+2025-11-20 11:07:36,364 | INFO | [92mQBC-DPP[0m with 10 samples : Accuracy: 0.7011
+2025-11-20 11:07:37,253 | INFO | [92mQBC-DPP[0m with 20 samples : Accuracy: 0.7126
+2025-11-20 11:07:38,154 | INFO | [92mQBC-DPP[0m with 30 samples : Accuracy: 0.8161
+2025-11-20 11:07:39,066 | INFO | [92mQBC-DPP[0m with 40 samples : Accuracy: 0.8161
+2025-11-20 11:07:39,992 | INFO | [92mQBC-DPP[0m with 50 samples : Accuracy: 0.8218
+2025-11-20 11:07:40,935 | INFO | [92mQBC-DPP[0m with 60 samples : Accuracy: 0.8046
+2025-11-20 11:07:41,900 | INFO | [92mQBC-DPP[0m with 70 samples : Accuracy: 0.8103
+2025-11-20 11:07:42,872 | INFO | [92mQBC-DPP[0m with 80 samples : Accuracy: 0.8103
+2025-11-20 11:07:43,870 | INFO | [92mQBC-DPP[0m with 90 samples : Accuracy: 0.8218
+2025-11-20 11:07:44,888 | INFO | [92mQBC-DPP[0m with 100 samples : Accuracy: 0.8161
+2025-11-20 11:07:45,927 | INFO | [92mQBC-DPP[0m with 110 samples : Accuracy: 0.8046
+2025-11-20 11:07:46,995 | INFO | [92mQBC-DPP[0m with 120 samples : Accuracy: 0.8276
+2025-11-20 11:07:48,088 | INFO | [92mQBC-DPP[0m with 130 samples : Accuracy: 0.8448
+2025-11-20 11:07:49,209 | INFO | [92mQBC-DPP[0m with 140 samples : Accuracy: 0.8506
+2025-11-20 11:07:50,361 | INFO | [92mQBC-DPP[0m with 150 samples : Accuracy: 0.8333
+2025-11-20 11:07:51,541 | INFO | [92mQBC-DPP[0m with 160 samples : Accuracy: 0.8391
+2025-11-20 11:07:52,755 | INFO | [92mQBC-DPP[0m with 170 samples : Accuracy: 0.8391
+2025-11-20 11:07:53,992 | INFO | [92mQBC-DPP[0m with 180 samples : Accuracy: 0.8218
+2025-11-20 11:07:55,271 | INFO | [92mQBC-DPP[0m with 190 samples : Accuracy: 0.8276
+2025-11-20 11:07:56,585 | INFO | [92mQBC-DPP[0m with 200 samples : Accuracy: 0.8218
+2025-11-20 11:07:56,590 | INFO | Saved uniform summary to my_DPP_tillage/runs_csv/run_2025-11-20_11-02-17/uniform_accuracy.csv
+2025-11-20 11:07:56,594 | INFO | Saved passive_dpp summary to my_DPP_tillage/runs_csv/run_2025-11-20_11-02-17/passive_dpp_accuracy.csv
+2025-11-20 11:07:56,597 | INFO | Saved qbc_dpp summary to my_DPP_tillage/runs_csv/run_2025-11-20_11-02-17/qbc_dpp_accuracy.csv
+2025-11-20 11:07:56,607 | INFO | Saved combined means to my_DPP_tillage/runs_csv/run_2025-11-20_11-02-17/all_methods_mean_accuracy.csv

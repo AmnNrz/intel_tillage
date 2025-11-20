@@ -277,7 +277,7 @@ def full_model():
     #print(f'Accuracy of the model on the test images:{round(test_acc,4)}')
 
     # Get class distribution
-    class_counts = np.bincount(labels, minlength=num_classes)
+    class_counts = np.bincount(y_train[train_ids], minlength=labels.unique())
     class_prop = class_counts/class_counts.sum()
 
     return test_acc, class_prop
@@ -289,7 +289,7 @@ def random_subset(k=10):
     train_ids = sub_ids[:k]
 
     # Get class distribution
-    class_counts = np.bincount(y_train_mapped[train_ids], minlength=num_classes)
+    class_counts = np.bincount(y_train[train_ids], minlength=labels.unique())
     class_prop = class_counts/class_counts.sum()
 
     model, test_acc = train_and_test(data.iloc[train_ids], labels[train_ids], test_data, test_labels)
@@ -307,7 +307,7 @@ def passive_dpp(steps, gamma=5, alpha=4, k=10):
     #draw(data[train_ids].numpy())
 
     # Get class distribution
-    class_counts = np.bincount(y_train_mapped[train_ids], minlength=num_classes)
+    class_counts = np.bincount(y_train[train_ids], minlength=labels.unique())
     class_props = class_counts/class_counts.sum()
     return test_acc, class_props
 
@@ -336,7 +336,7 @@ def active_dpp(steps, gamma=5, alpha=4):
         train_ids = np.append(train_ids, new_train_ids).astype(int)
 
         # Get class distribution
-        class_counts = np.bincount(y_train_mapped[train_ids], minlength=num_classes)
+        class_counts = np.bincount(y_train[train_ids], minlength=labels.unique())
         class_prop = class_counts/class_counts.sum()
         class_props.append(class_prop)
 
@@ -387,7 +387,7 @@ def query_by_committee(steps, gamma=5, alpha=4):
         train_ids = np.append(train_ids, new_train_ids).astype(int)
 
         # Get class distribution
-        class_counts = np.bincount(y_train_mapped[train_ids], minlength=num_classes)
+        class_counts = np.bincount(y_train[train_ids], minlength=labels.unique())
         class_prop = class_counts/class_counts.sum()
         class_props.append(class_prop)
 
@@ -428,54 +428,43 @@ input_size = data.shape[1]
 num_classes = 3
 max_sample_count = data.shape[0]
 sub_sample_count = 330
-num_trials = 2 # 33, 2 (for query)
-num_iter = 20
+num_trials = 33 # 33
 
 # store results
-test_accs_all_iters = []
-for iter in range(1, num_iter + 1):
-    print(f"\n\033[1;33m{'='*10} ITERATION: {iter} {'='*10}\033[0m\n")
-    test_accs = []
-    class_dists = []
-    for i in range(1,num_trials):
-        '''test_acc_full.append(full_model())
-        print('-'*50)
-        test_acc_random.append(random_subset(k=i*10))
-        print('-'*50)
-        # passive dpp
-        test_acc_passive.append(passive_dpp(1000, k=i*10))
-        print('-'*50)               
-        # active dpp
-        test_acc_active.append(active_dpp(1000))    
-        # query_by_committee          
-        test_acc_query.append(query_by_committee(1000))'''
-        
-        # query by committee
-        test_acc, class_dist = query_by_committee(1000)
-        test_accs.append(test_acc)
-        class_dists.append(class_dist)
-    test_accs_all_iters.append(test_accs)    
-aew = 3 
+test_acc_full = []
+test_acc_random = []
+test_acc_passive = []
+test_acc_active = []
+test_acc_query = []
+class_dists = []
 
-# +
-method = "query"
+for i in range(1,num_trials):
+    '''test_acc_full.append(full_model())
+    print('-'*50)
+    test_acc_random.append(random_subset(k=i*10))
+    print('-'*50)
+    # passive dpp
+    test_acc_passive.append(passive_dpp(1000, k=i*10))
+    print('-'*50)               
+    # active dpp
+    test_acc_active.append(active_dpp(1000))    
+    # query_by_committee          
+    test_acc_query.append(query_by_committee(1000))'''
+    # query by committee
+    test_acc, class_dist = random_subset(k=i*10)
+    test_acc_random.append(test_acc)
+    class_dists.append(class_dist)
+
+    print(class_dist)
+aew = 3 
+# -
+
+len(test_acc_random)
+
+method = "random"
 with open(
     os.path.join(
         path_to_data,
         f'sampling_methods_results/{method}_cp_rounds/test_acc_{method}_cp.pkl'),
         "wb") as f:
-    pickle.dump(test_accs, f)
-
-with open(
-    os.path.join(
-        path_to_data,
-        f'sampling_methods_results/{method}_cp_rounds/class_dists_{method}_cp.pkl'),
-        "wb") as f:
-    pickle.dump(class_dists, f)
-
-with open(
-    os.path.join(
-        path_to_data,
-        f'sampling_methods_results/{method}_cp_rounds/test_acc_iters_{method}_cp.pkl'),
-        "wb") as f:
-    pickle.dump(test_accs_all_iters, f)
+    pickle.dump(test_acc_random, f)

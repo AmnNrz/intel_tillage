@@ -1,12 +1,36 @@
+# ---
+# jupyter:
+#   jupytext:
+#     cell_metadata_filter: -all
+#     formats: ipynb,py
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.16.1
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
+
+# +
 import pandas as pd
 import os
 import numpy as np
 from sklearn.metrics import confusion_matrix
+from pathlib import Path
 
 method = 'active' # 'active' or 'online'
-path_to_data = f'my_DPP_tillage/results/{method}_cp_rounds/'
 
-round_num = 20  # Change this to the desired round number
+BASE = Path("/home/a.norouzikandelati/Projects/data/tillage_mapping")
+path_to_data = (
+BASE
+/ "sampling_methods_results"
+/ "active_cp_rounds/"
+)
+
+round_num = 5  # Change this to the desired round number
 file_name = f"{method}_cp_round_{round_num}.csv"
 
 # Load the data
@@ -23,6 +47,7 @@ rename_dict = {
     1: "MT", 
     2: "NT"
 }
+
 pool['true_label'] = pool['true_label'].astype(int).map(rename_dict)
 pool['top_pred'] = pool['top_pred'].astype(int).map(rename_dict)
 
@@ -78,6 +103,6 @@ df = pd.concat([merged, data_to_concat], ignore_index=True)
 df = df.reset_index(drop=True)
 
 df.to_csv(
-    path_to_data +
-    f"reliability_round_{round_num}.csv", index=False
+    (path_to_data 
+    / f"reliability_round_{round_num}.csv"), index=False
 )
